@@ -1,0 +1,74 @@
+[
+  {
+    "model": "jobplus.jobtype",
+    "pk": 1,
+    "fields": {
+      "name": "Full-time",
+      "created_at": "2021-10-01T13:46:18.474Z",
+      "updated_at": "2021-10-01T13:46:20.785Z"
+    }
+  },
+  {
+    "model": "jobplus.jobtype",
+    "pk": 2,
+    "fields": {
+      "name": "Permanent",
+      "created_at": "2021-10-01T13:46:36.253Z",
+      "updated_at": "2021-10-01T13:46:36.253Z"
+    }
+  },
+  {
+    "model": "jobplus.jobtype",
+    "pk": 3,
+    "fields": {
+      "name": "Part-time",
+      "created_at": "2021-10-01T13:46:58.722Z",
+      "updated_at": "2021-10-01T13:46:58.722Z"
+    }
+  },
+  {
+    "model": "jobplus.jobtype",
+    "pk": 4,
+    "fields": {
+      "name": "Contract",
+      "created_at": "2021-10-01T13:47:09.152Z",
+      "updated_at": "2021-10-01T13:47:09.152Z"
+    }
+  },
+  {
+    "model": "jobplus.jobtype",
+    "pk": 5,
+    "fields": {
+      "name": "Temporary",
+      "created_at": "2021-10-01T13:47:15.402Z",
+      "updated_at": "2021-10-01T13:47:15.402Z"
+    }
+  },
+  {
+    "model": "jobplus.jobtype",
+    "pk": 6,
+    "fields": {
+      "name": "Apprenticeship",
+      "created_at": "2021-10-01T13:47:27.598Z",
+      "updated_at": "2021-10-01T13:47:27.598Z"
+    }
+  },
+  {
+    "model": "jobplus.jobtype",
+    "pk": 7,
+    "fields": {
+      "name": "Internship",
+      "created_at": "2021-10-01T13:47:37.984Z",
+      "updated_at": "2021-10-01T13:47:37.984Z"
+    }
+  },
+  {
+    "model": "jobplus.jobtype",
+    "pk": 8,
+    "fields": {
+      "name": "Volunteer",
+      "created_at": "2021-10-01T13:47:46.939Z",
+      "updated_at": "2021-10-01T13:47:46.939Z"
+    }
+  }
+]

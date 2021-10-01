@@ -1,0 +1,276 @@
+[
+  {
+    "model": "jobplus.job",
+    "pk": 1,
+    "fields": {
+      "company": 1,
+      "location": 1,
+      "job_category": 1,
+      "title": "Azure Devops Developer",
+      "description": "Every year, we welcome thousands of university graduates from every corner of the world to join Microsoft. You bring your aspirations, talent, potential—and excitement for the journey ahead.\r\n\r\nAt Microsoft, our mission is to empower every person and every organization on the planet to achieve more and when you begin your career with us, we empower you through the Microsoft Aspire Experience. All our full-time university hires are invited to participate in this two-year learning and development experience where you'll build your network, cultivate intentional capabilities and gain perspective into the career opportunities across Microsoft’s many exciting businesses.",
+      "created_at": "2021-10-01T14:19:24.784Z",
+      "updated_at": "2021-10-01T14:19:24.784Z",
+      "job_types": [
+        1,
+        2
+      ],
+      "job_skills": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "model": "jobplus.job",
+    "pk": 2,
+    "fields": {
+      "company": 1,
+      "location": 1,
+      "job_category": 1,
+      "title": "Full time Permanent IT Field Engineer",
+      "description": "If you think progressively, have a critical eye, have strong communication skills and are creative when solving issues, then you could be just the person we’re looking for. If you like to roll up your sleeves, thrive under pressure situations and never say die, then you could be the perfect fit. If you want to grow both personally and professionally, define your own career and collaborate with like-minded-engineers, then we definitely want to talk to you.\r\n\r\nDon’t be shy if you have no practical experience that is something we can easily teach you.",
+      "created_at": "2021-10-01T14:22:13.781Z",
+      "updated_at": "2021-10-01T14:22:13.781Z",
+      "job_types": [
+        1,
+        4
+      ],
+      "job_skills": [
+        7,
+        8,
+        10,
+        12,
+        13,
+        17
+      ]
+    }
+  },
+  {
+    "model": "jobplus.job",
+    "pk": 3,
+    "fields": {
+      "company": 1,
+      "location": 1,
+      "job_category": 2,
+      "title": "Systems Network Engineer",
+      "description": "This role is a tactical part of the team that ensures all data communication networks and systems are virtually perpetually running error free and strives to evolve the entire network architecture of TBS (and Telstra to an extent) depending on the market and industry practices ensuring alignment with TBS strategic goals.",
+      "created_at": "2021-10-01T14:24:04.696Z",
+      "updated_at": "2021-10-01T14:24:04.696Z",
+      "job_types": [
+        1,
+        4
+      ],
+      "job_skills": [
+        18,
+        20,
+        22,
+        24
+      ]
+    }
+  },
+  {
+    "model": "jobplus.job",
+    "pk": 4,
+    "fields": {
+      "company": 1,
+      "location": 1,
+      "job_category": 10,
+      "title": "Operational Security Services Analyst",
+      "description": "Member of the Operation Security Services team to deliver an effective proactive security function. Ensuring that all day-to-day activities (data backups, server & device patching, antivirus deployment, monitoring & alerting, incident response, vulnerability management, change control, availability & performance management of the security management platforms) are carried out within a controlled and compliant framework.",
+      "created_at": "2021-10-01T14:25:54.400Z",
+      "updated_at": "2021-10-01T14:25:54.400Z",
+      "job_types": [
+        2
+      ],
+      "job_skills": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    }
+  },
+  {
+    "model": "jobplus.job",
+    "pk": 5,
+    "fields": {
+      "company": 1,
+      "location": 2,
+      "job_category": 1,
+      "title": "Frontend Developer",
+      "description": "We are looking for someone to join the team and hit the ground running, with that in mind we are looking for someone with experience of digital customer experience and SC security clearance to begin. You will be helping produce web platforms for a range of client. This client offers a great base salary and career progression opportunities.",
+      "created_at": "2021-10-01T15:03:23.627Z",
+      "updated_at": "2021-10-01T15:03:23.627Z",
+      "job_types": [
+        2
+      ],
+      "job_skills": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "jobplus.job",
+    "pk": 6,
+    "fields": {
+      "company": 1,
+      "location": 2,
+      "job_category": 2,
+      "title": "Technical Support Analyst",
+      "description": "If you are looking for an exciting career with an organisation that is experiencing rapid growth and offers enormous career development opportunities, then we want to hear from you.",
+      "created_at": "2021-10-01T15:05:51.829Z",
+      "updated_at": "2021-10-01T15:05:51.829Z",
+      "job_types": [
+        2,
+        4
+      ],
+      "job_skills": [
+        2,
+        5,
+        8,
+        9,
+        10
+      ]
+    }
+  },
+  {
+    "model": "jobplus.job",
+    "pk": 7,
+    "fields": {
+      "company": 1,
+      "location": 2,
+      "job_category": 3,
+      "title": "Apple Support Engineer",
+      "description": "With exposure to a wide variety of technologies and solutions, you’ll be proactive to resolve issues and provide input into suggested automation and improvements that ultimately will lead to a more positive support experience for the end customers.\r\n\r\nThe role is currently fully remote, with occasional visits to Techary and the end customer based in London, if required.",
+      "created_at": "2021-10-01T15:07:27.898Z",
+      "updated_at": "2021-10-01T15:07:27.898Z",
+      "job_types": [
+        2
+      ],
+      "job_skills": [
+        20,
+        21,
+        27,
+        28,
+        29,
+        30
+      ]
+    }
+  },
+  {
+    "model": "jobplus.job",
+    "pk": 8,
+    "fields": {
+      "company": 1,
+      "location": 2,
+      "job_category": 4,
+      "title": "Land / Engineering Surveyor",
+      "description": "We value our employees and recognise the importance of the contribution that every employee makes, and as such all members of the SES team are employed on permanent contracts, no one is employed on a sub-contract basis or through umbrella companies, thereby ensuring a consistent approach to our work, in addition, we are committed to ensuring that all our employees earn, as a minimum, the voluntary Real Living Wage.",
+      "created_at": "2021-10-01T15:07:27.898Z",
+      "updated_at": "2021-10-01T15:07:27.898Z",
+      "job_types": [
+        2
+      ],
+      "job_skills": [
+        20,
+        21
+      ]
+    }
+  },
+  {
+    "model": "jobplus.job",
+    "pk": 9,
+    "fields": {
+      "company": 1,
+      "location": 3,
+      "job_category": 5,
+      "title": "Entry Level Software Engineer",
+      "description": "As a member of the team you will take design requirements and convert them to high quality code in a timely manner. You will work with a team of professional software engineers to deliver top-quality software to our end users. You will participate in full life cycle of our products including design, development, code reviews, patent creation and write up, testing, documentation and support.",
+      "created_at": "2021-10-01T15:07:27.898Z",
+      "updated_at": "2021-10-01T15:07:27.898Z",
+      "job_types": [
+        2
+      ],
+      "job_skills": [
+        20
+      ]
+    }
+  },
+  {
+    "model": "jobplus.job",
+    "pk": 10,
+    "fields": {
+      "company": 1,
+      "location": 3,
+      "job_category": 7,
+      "title": "Specialist HEN Dietitian for Adults",
+      "description": "An exciting opportunity has arisen for an enthusiastic and motivated dietitian to join our innovative and dynamic multidisciplinary team and gain experience in home enteral feeding.",
+      "created_at": "2021-10-01T15:07:27.898Z",
+      "updated_at": "2021-10-01T15:07:27.898Z",
+      "job_types": [
+        2
+      ],
+      "job_skills": [
+        52,
+        53,
+        54
+      ]
+    }
+  },
+  {
+    "model": "jobplus.job",
+    "pk": 11,
+    "fields": {
+      "company": 1,
+      "location": 3,
+      "job_category": 7,
+      "title": "Dietetic Assistant",
+      "description": "We are a small but friendly and forward thinking department who value continuous professional development, and are committed to the development of teaching and presentation skills, evidenced based practice, patient feedback and clinical audit. You will be supported in attending relevant external and internal training. We are also involved in student training.",
+      "created_at": "2021-10-01T15:07:27.898Z",
+      "updated_at": "2021-10-01T15:07:27.898Z",
+      "job_types": [
+        2
+      ],
+      "job_skills": [
+        52,
+        53,
+        54
+      ]
+    }
+  },
+  {
+    "model": "jobplus.job",
+    "pk": 12,
+    "fields": {
+      "company": 1,
+      "location": 3,
+      "job_category": 7,
+      "title": "Dietitian - Eating Disorder Unit",
+      "description": "Lead the dietetics service for the team, by developing appropriate service standards, care pathways and materials for the dietetics service, and contributing to MDT service development and evaluation.",
+      "created_at": "2021-10-01T15:07:27.898Z",
+      "updated_at": "2021-10-01T15:07:27.898Z",
+      "job_types": [
+        2
+      ],
+      "job_skills": [
+        52,
+        53,
+        54
+      ]
+    }
+  }
+]

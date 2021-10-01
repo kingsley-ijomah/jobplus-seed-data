@@ -1,0 +1,642 @@
+[
+  {
+    "model": "jobplus.jobskill",
+    "pk": 1,
+    "fields": {
+      "job_category": 1,
+      "name": "HTML",
+      "created_at": "2021-10-01T13:05:57.240Z",
+      "updated_at": "2021-10-01T13:05:57.241Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 2,
+    "fields": {
+      "job_category": 1,
+      "name": "CSS",
+      "created_at": "2021-10-01T13:05:57.242Z",
+      "updated_at": "2021-10-01T13:05:57.242Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 3,
+    "fields": {
+      "job_category": 1,
+      "name": "JavaScript",
+      "created_at": "2021-10-01T13:05:57.243Z",
+      "updated_at": "2021-10-01T13:05:57.243Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 4,
+    "fields": {
+      "job_category": 1,
+      "name": "SEO",
+      "created_at": "2021-10-01T13:05:57.244Z",
+      "updated_at": "2021-10-01T13:05:57.244Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 5,
+    "fields": {
+      "job_category": 1,
+      "name": "SQL",
+      "created_at": "2021-10-01T13:05:57.245Z",
+      "updated_at": "2021-10-01T13:05:57.245Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 6,
+    "fields": {
+      "job_category": 1,
+      "name": "Git",
+      "created_at": "2021-10-01T13:05:57.246Z",
+      "updated_at": "2021-10-01T13:05:57.246Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 7,
+    "fields": {
+      "job_category": 1,
+      "name": "APIs",
+      "created_at": "2021-10-01T13:05:57.246Z",
+      "updated_at": "2021-10-01T13:05:57.246Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 8,
+    "fields": {
+      "job_category": 1,
+      "name": "Django",
+      "created_at": "2021-10-01T13:05:57.247Z",
+      "updated_at": "2021-10-01T13:05:57.247Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 9,
+    "fields": {
+      "job_category": 1,
+      "name": "React",
+      "created_at": "2021-10-01T13:05:57.248Z",
+      "updated_at": "2021-10-01T13:05:57.248Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 10,
+    "fields": {
+      "job_category": 1,
+      "name": "Ruby on Rails",
+      "created_at": "2021-10-01T13:05:57.249Z",
+      "updated_at": "2021-10-01T13:05:57.249Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 11,
+    "fields": {
+      "job_category": 1,
+      "name": "Python",
+      "created_at": "2021-10-01T13:05:57.250Z",
+      "updated_at": "2021-10-01T13:05:57.250Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 12,
+    "fields": {
+      "job_category": 1,
+      "name": "Django",
+      "created_at": "2021-10-01T13:05:57.250Z",
+      "updated_at": "2021-10-01T13:05:57.250Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 13,
+    "fields": {
+      "job_category": 1,
+      "name": "Java",
+      "created_at": "2021-10-01T13:05:57.251Z",
+      "updated_at": "2021-10-01T13:05:57.251Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 14,
+    "fields": {
+      "job_category": 1,
+      "name": "PHP",
+      "created_at": "2021-10-01T13:05:57.252Z",
+      "updated_at": "2021-10-01T13:05:57.252Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 15,
+    "fields": {
+      "job_category": 2,
+      "name": "Analytical",
+      "created_at": "2021-10-01T13:08:12.013Z",
+      "updated_at": "2021-10-01T13:08:12.013Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 16,
+    "fields": {
+      "job_category": 2,
+      "name": "Learn quickly",
+      "created_at": "2021-10-01T13:08:12.014Z",
+      "updated_at": "2021-10-01T13:08:12.014Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 17,
+    "fields": {
+      "job_category": 2,
+      "name": "Team Working",
+      "created_at": "2021-10-01T13:08:12.015Z",
+      "updated_at": "2021-10-01T13:08:12.015Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 18,
+    "fields": {
+      "job_category": 2,
+      "name": "Manage Expectations",
+      "created_at": "2021-10-01T13:08:12.016Z",
+      "updated_at": "2021-10-01T13:08:12.016Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 19,
+    "fields": {
+      "job_category": 3,
+      "name": "Firewall and security",
+      "created_at": "2021-10-01T13:09:44.110Z",
+      "updated_at": "2021-10-01T13:09:44.110Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 20,
+    "fields": {
+      "job_category": 3,
+      "name": "Networking design",
+      "created_at": "2021-10-01T13:09:44.112Z",
+      "updated_at": "2021-10-01T13:09:44.112Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 21,
+    "fields": {
+      "job_category": 3,
+      "name": "Programming Language",
+      "created_at": "2021-10-01T13:09:44.113Z",
+      "updated_at": "2021-10-01T13:09:44.113Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 22,
+    "fields": {
+      "job_category": 3,
+      "name": "Cloud Computing",
+      "created_at": "2021-10-01T13:09:44.114Z",
+      "updated_at": "2021-10-01T13:09:44.114Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 23,
+    "fields": {
+      "job_category": 3,
+      "name": "Operating System",
+      "created_at": "2021-10-01T13:09:44.115Z",
+      "updated_at": "2021-10-01T13:09:44.115Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 24,
+    "fields": {
+      "job_category": 10,
+      "name": "Critical Thinking",
+      "created_at": "2021-10-01T13:11:27.953Z",
+      "updated_at": "2021-10-01T13:11:27.953Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 25,
+    "fields": {
+      "job_category": 10,
+      "name": "Creativity",
+      "created_at": "2021-10-01T13:11:27.954Z",
+      "updated_at": "2021-10-01T13:11:27.954Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 26,
+    "fields": {
+      "job_category": 10,
+      "name": "Intrusion Prevention",
+      "created_at": "2021-10-01T13:11:27.955Z",
+      "updated_at": "2021-10-01T13:11:27.955Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 27,
+    "fields": {
+      "job_category": 10,
+      "name": "Detail Oriented",
+      "created_at": "2021-10-01T13:11:27.956Z",
+      "updated_at": "2021-10-01T13:11:27.956Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 28,
+    "fields": {
+      "job_category": 11,
+      "name": "Strategic thinking",
+      "created_at": "2021-10-01T13:12:40.868Z",
+      "updated_at": "2021-10-01T13:12:40.868Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 29,
+    "fields": {
+      "job_category": 11,
+      "name": "Strong communication",
+      "created_at": "2021-10-01T13:12:40.869Z",
+      "updated_at": "2021-10-01T13:12:40.869Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 30,
+    "fields": {
+      "job_category": 11,
+      "name": "Project management",
+      "created_at": "2021-10-01T13:12:40.870Z",
+      "updated_at": "2021-10-01T13:12:40.870Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 31,
+    "fields": {
+      "job_category": 11,
+      "name": "Desire to keep learning",
+      "created_at": "2021-10-01T13:12:40.871Z",
+      "updated_at": "2021-10-01T13:12:40.871Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 32,
+    "fields": {
+      "job_category": 4,
+      "name": "Mathematics",
+      "created_at": "2021-10-01T13:14:09.427Z",
+      "updated_at": "2021-10-01T13:14:09.427Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 33,
+    "fields": {
+      "job_category": 4,
+      "name": "Scientific",
+      "created_at": "2021-10-01T13:14:09.428Z",
+      "updated_at": "2021-10-01T13:14:09.428Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 34,
+    "fields": {
+      "job_category": 4,
+      "name": "IT",
+      "created_at": "2021-10-01T13:14:09.429Z",
+      "updated_at": "2021-10-01T13:14:09.429Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 35,
+    "fields": {
+      "job_category": 4,
+      "name": "Problem Solving",
+      "created_at": "2021-10-01T13:14:09.430Z",
+      "updated_at": "2021-10-01T13:14:09.430Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 36,
+    "fields": {
+      "job_category": 5,
+      "name": "Circuit design",
+      "created_at": "2021-10-01T13:15:35.754Z",
+      "updated_at": "2021-10-01T13:15:35.754Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 37,
+    "fields": {
+      "job_category": 5,
+      "name": "Linear systems theory",
+      "created_at": "2021-10-01T13:15:35.755Z",
+      "updated_at": "2021-10-01T13:15:35.755Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 38,
+    "fields": {
+      "job_category": 5,
+      "name": "Data collection",
+      "created_at": "2021-10-01T13:15:35.756Z",
+      "updated_at": "2021-10-01T13:15:35.756Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 39,
+    "fields": {
+      "job_category": 5,
+      "name": "Electronic equipment",
+      "created_at": "2021-10-01T13:15:35.757Z",
+      "updated_at": "2021-10-01T13:15:35.757Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 40,
+    "fields": {
+      "job_category": 6,
+      "name": "Effective technical",
+      "created_at": "2021-10-01T13:16:52.653Z",
+      "updated_at": "2021-10-01T13:16:52.653Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 41,
+    "fields": {
+      "job_category": 6,
+      "name": "Mathematics",
+      "created_at": "2021-10-01T13:16:52.654Z",
+      "updated_at": "2021-10-01T13:16:52.654Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 42,
+    "fields": {
+      "job_category": 6,
+      "name": "Creativity",
+      "created_at": "2021-10-01T13:16:52.655Z",
+      "updated_at": "2021-10-01T13:16:52.655Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 43,
+    "fields": {
+      "job_category": 6,
+      "name": "Problem Solving",
+      "created_at": "2021-10-01T13:16:52.655Z",
+      "updated_at": "2021-10-01T13:16:52.656Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 44,
+    "fields": {
+      "job_category": 6,
+      "name": "Team Worker",
+      "created_at": "2021-10-01T13:16:52.657Z",
+      "updated_at": "2021-10-01T13:16:52.657Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 45,
+    "fields": {
+      "job_category": 12,
+      "name": "Civil Engineering",
+      "created_at": "2021-10-01T13:18:23.797Z",
+      "updated_at": "2021-10-01T13:18:23.797Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 46,
+    "fields": {
+      "job_category": 12,
+      "name": "Geotechnical Analysis",
+      "created_at": "2021-10-01T13:18:23.798Z",
+      "updated_at": "2021-10-01T13:18:23.798Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 47,
+    "fields": {
+      "job_category": 12,
+      "name": "Project Management",
+      "created_at": "2021-10-01T13:18:23.800Z",
+      "updated_at": "2021-10-01T13:18:23.801Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 48,
+    "fields": {
+      "job_category": 12,
+      "name": "Autocad",
+      "created_at": "2021-10-01T13:18:23.801Z",
+      "updated_at": "2021-10-01T13:18:23.801Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 49,
+    "fields": {
+      "job_category": 12,
+      "name": "Engineering Analysis",
+      "created_at": "2021-10-01T13:18:23.804Z",
+      "updated_at": "2021-10-01T13:18:23.804Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 50,
+    "fields": {
+      "job_category": 12,
+      "name": "Technical Reports",
+      "created_at": "2021-10-01T13:18:23.805Z",
+      "updated_at": "2021-10-01T13:18:23.805Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 51,
+    "fields": {
+      "job_category": 7,
+      "name": "Assess patients",
+      "created_at": "2021-10-01T13:20:38.212Z",
+      "updated_at": "2021-10-01T13:20:38.212Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 52,
+    "fields": {
+      "job_category": 7,
+      "name": "Counsel patients",
+      "created_at": "2021-10-01T13:20:38.213Z",
+      "updated_at": "2021-10-01T13:20:38.213Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 53,
+    "fields": {
+      "job_category": 7,
+      "name": "Meal and Nutrition plans",
+      "created_at": "2021-10-01T13:20:38.213Z",
+      "updated_at": "2021-10-01T13:20:38.213Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 54,
+    "fields": {
+      "job_category": 7,
+      "name": "Document Process",
+      "created_at": "2021-10-01T13:20:38.214Z",
+      "updated_at": "2021-10-01T13:20:38.214Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 55,
+    "fields": {
+      "job_category": 8,
+      "name": "Good observation",
+      "created_at": "2021-10-01T13:22:57.328Z",
+      "updated_at": "2021-10-01T13:22:57.328Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 56,
+    "fields": {
+      "job_category": 8,
+      "name": "Self-motivation",
+      "created_at": "2021-10-01T13:22:57.329Z",
+      "updated_at": "2021-10-01T13:22:57.329Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 57,
+    "fields": {
+      "job_category": 8,
+      "name": "Decision making",
+      "created_at": "2021-10-01T13:22:57.330Z",
+      "updated_at": "2021-10-01T13:22:57.330Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 58,
+    "fields": {
+      "job_category": 8,
+      "name": "Technical",
+      "created_at": "2021-10-01T13:22:57.331Z",
+      "updated_at": "2021-10-01T13:22:57.331Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 59,
+    "fields": {
+      "job_category": 8,
+      "name": "Ability to diagnose",
+      "created_at": "2021-10-01T13:22:57.332Z",
+      "updated_at": "2021-10-01T13:22:57.332Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 60,
+    "fields": {
+      "job_category": 9,
+      "name": "Adaptability",
+      "created_at": "2021-10-01T13:24:06.703Z",
+      "updated_at": "2021-10-01T13:24:06.703Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 61,
+    "fields": {
+      "job_category": 9,
+      "name": "Interpersonal",
+      "created_at": "2021-10-01T13:24:06.705Z",
+      "updated_at": "2021-10-01T13:24:06.705Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 62,
+    "fields": {
+      "job_category": 9,
+      "name": "Teamworking",
+      "created_at": "2021-10-01T13:24:06.705Z",
+      "updated_at": "2021-10-01T13:24:06.705Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 63,
+    "fields": {
+      "job_category": 9,
+      "name": "Interpersonal",
+      "created_at": "2021-10-01T13:24:06.706Z",
+      "updated_at": "2021-10-01T13:24:06.706Z"
+    }
+  },
+  {
+    "model": "jobplus.jobskill",
+    "pk": 64,
+    "fields": {
+      "job_category": 9,
+      "name": "Maturity",
+      "created_at": "2021-10-01T13:24:06.707Z",
+      "updated_at": "2021-10-01T13:24:06.707Z"
+    }
+  }
+]

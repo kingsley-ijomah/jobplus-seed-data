@@ -1,0 +1,122 @@
+[
+  {
+    "model": "jobplus.jobcategory",
+    "pk": 1,
+    "fields": {
+      "job_sector": 1,
+      "name": "Software developer",
+      "created_at": "2021-10-01T12:51:18.925Z",
+      "updated_at": "2021-10-01T13:05:57.238Z"
+    }
+  },
+  {
+    "model": "jobplus.jobcategory",
+    "pk": 2,
+    "fields": {
+      "job_sector": 1,
+      "name": "Systems analyst",
+      "created_at": "2021-10-01T12:51:18.927Z",
+      "updated_at": "2021-10-01T13:08:12.011Z"
+    }
+  },
+  {
+    "model": "jobplus.jobcategory",
+    "pk": 3,
+    "fields": {
+      "job_sector": 1,
+      "name": "Network engineer",
+      "created_at": "2021-10-01T12:51:18.928Z",
+      "updated_at": "2021-10-01T13:09:44.109Z"
+    }
+  },
+  {
+    "model": "jobplus.jobcategory",
+    "pk": 4,
+    "fields": {
+      "job_sector": 2,
+      "name": "Civil Engineering",
+      "created_at": "2021-10-01T12:52:17.443Z",
+      "updated_at": "2021-10-01T13:14:09.425Z"
+    }
+  },
+  {
+    "model": "jobplus.jobcategory",
+    "pk": 5,
+    "fields": {
+      "job_sector": 2,
+      "name": "Electrical Engineering",
+      "created_at": "2021-10-01T12:52:17.444Z",
+      "updated_at": "2021-10-01T13:15:35.752Z"
+    }
+  },
+  {
+    "model": "jobplus.jobcategory",
+    "pk": 6,
+    "fields": {
+      "job_sector": 2,
+      "name": "Mechanical Engineering",
+      "created_at": "2021-10-01T12:52:17.445Z",
+      "updated_at": "2021-10-01T13:16:52.651Z"
+    }
+  },
+  {
+    "model": "jobplus.jobcategory",
+    "pk": 7,
+    "fields": {
+      "job_sector": 3,
+      "name": "Dietitian",
+      "created_at": "2021-10-01T12:55:05.543Z",
+      "updated_at": "2021-10-01T13:20:38.210Z"
+    }
+  },
+  {
+    "model": "jobplus.jobcategory",
+    "pk": 8,
+    "fields": {
+      "job_sector": 3,
+      "name": "Diagnostic radiographer",
+      "created_at": "2021-10-01T12:55:05.544Z",
+      "updated_at": "2021-10-01T13:22:57.326Z"
+    }
+  },
+  {
+    "model": "jobplus.jobcategory",
+    "pk": 9,
+    "fields": {
+      "job_sector": 3,
+      "name": "Orthoptist",
+      "created_at": "2021-10-01T12:55:05.546Z",
+      "updated_at": "2021-10-01T13:24:06.702Z"
+    }
+  },
+  {
+    "model": "jobplus.jobcategory",
+    "pk": 10,
+    "fields": {
+      "job_sector": 1,
+      "name": "Information Security Analyst",
+      "created_at": "2021-10-01T12:57:20.494Z",
+      "updated_at": "2021-10-01T13:11:27.952Z"
+    }
+  },
+  {
+    "model": "jobplus.jobcategory",
+    "pk": 11,
+    "fields": {
+      "job_sector": 1,
+      "name": "Information Technology Manager",
+      "created_at": "2021-10-01T12:57:20.495Z",
+      "updated_at": "2021-10-01T13:12:40.866Z"
+    }
+  },
+  {
+    "model": "jobplus.jobcategory",
+    "pk": 12,
+    "fields": {
+      "job_sector": 2,
+      "name": "Geotechnical Engineering",
+      "created_at": "2021-10-01T12:57:48.680Z",
+      "updated_at": "2021-10-01T13:18:23.796Z"
+    }
+  }
+]

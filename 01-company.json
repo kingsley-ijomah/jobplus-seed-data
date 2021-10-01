@@ -1,0 +1,11 @@
+[
+  {
+    "model": "jobplus.company",
+    "pk": 1,
+    "fields": {
+      "name": "Morgan Technologies",
+      "created_at": "2021-10-01T12:33:31.848Z",
+      "updated_at": "2021-10-01T12:33:31.848Z"
+    }
+  }
+]
